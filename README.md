@@ -1,4 +1,4 @@
-# 🚀 Hello, World! — The Gem
+# 🚀 Hello, World!
 
 Hi hi hi hi!
 

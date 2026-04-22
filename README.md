@@ -17,4 +17,5 @@ And make sure you don't miss it!
 ## 🏃 How to run (hard)
 
 ```bash
+cargo build
 cargo run
